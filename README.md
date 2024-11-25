@@ -29,7 +29,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiul-p&show_icons=true&locale=en&layout=compact" alt="shafiul-p" /></p>
+<!-- GitHub Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiul-p&show_icons=true&locale=en&layout=compact&langs_count=6" alt="shafiul-p" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiul-p&show_icons=true&locale=en" alt="shafiul-p" /></p>
 
