@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafiul Islam</h1>
 <h3 align="center">I am a programming learner</h3>
-
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiul-p&label=Profile%20views&color=0e75b6&style=flat" alt="shafiul-p" /> </p>
 
 - 📫 How to reach me **mdshafiulmondol02@gmail.com**
@@ -16,9 +14,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
